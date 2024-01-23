@@ -1,14 +1,11 @@
 
 
-# Hi, I'm Francisca 👋🏿 💻
+# Hi 👋🏿, I'm Francisca and career changing,
 <img src='https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1' alt="banner mabuhay"></img>
 <br><br>
-I am a Frontend/UI Developer and DevOps enthusiast. I currently enjoy working with HTML5, CSS3, Bootstrap, Flexbox, Animation, JavaScript, ReactJS and RESTful API and have experience working with other technologies. 
+I am a Frontend Developer and a DevOps enthusiast with a background in postal services. Eager to join a creative, problem solving team and upskill myself in any challenging environment. Ability to learn and implement new technologies quickly. I have experience in developing and deploying personal websites utilizing various open-source packages. Don't just build a solution, however design the BEST solution which is futuristic, relaible, low maintance, and long standing 
 
-I enjoy doing code reviews, talking about all things coding, design and to better my coding skills.
-
-- 👨‍💻 I’m currently working on Data Structures & Algorithms and something Cool on the way.
-- 🌱 Urge to learn new techlonogies and anything around Tech and Science.
+Currently working with ReactJS and RESTful API and enjoy learning different technologies, doing code reviews and attending Tech events 😀
 
  # 💻 Tech Stack:
 
