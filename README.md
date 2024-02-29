@@ -3,7 +3,7 @@
 # Hi 👋🏿, I'm Francisca and career changing,
 <img src='https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1' alt="banner mabuhay"></img>
 <br><br>
-I am a Frontend Developer and a DevOps enthusiast with a background in postal services. Eager to join a creative, problem solving team and upskill myself in any challenging environment. Ability to learn and implement new technologies quickly. I have experience in developing and deploying personal websites utilizing various open-source packages. Don't just build a solution, however design the BEST solution which is futuristic, relaible, low maintance, and long standing 
+I'm a passionate Full Stack Web Developer and career changing. My backgroud is working in Post Office and currently working in Health Care. Eager to join a creative, problem solving team and upskill myself in any challenging environment. Ability to learn and implement new technologies quickly. I have experience as a Web Developer Intern, and buidling and deploying personal web applications utilizing various open-source packages. If i'm not coding you will find me helping students with their projects, breaking down concepts they find difficult to understand, or I could be running in the Phoenix Park, cycling, playing tennis, painting or doing voluntary work. I take responsibility for my personal dvelopment and love all forms of challenges.
 
 Currently working with ReactJS and RESTful API and enjoy learning different technologies, doing code reviews and attending Tech events 😀
 
