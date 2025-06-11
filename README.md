@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Francisca and career changing.
+# Hi, I'm Francisca,
 <img src='https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1' alt="banner mabuhay"></img>
 <br><br>
 I'm a Junior Web Developer with a backgroud working in a Post Office and in Health Care. My skills include front-end development (HTML5, CSS3, Javascript, ReactJs, Responsive design, UX/UI), back-end development working with Python, Django, database(Mysql, PostgreSQL and MongoDB) technical writing and project management. Eager to join a creative, problem solving team and upskill myself in a challenging environment.I enjoy working with technology and the ability to learn and implement new technologies quickly. I take responsibility for my personal dvelopment and I don't shy away from challenges.  
