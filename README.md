@@ -3,8 +3,8 @@
 # Hi, I'm Francisca and career changing.
 <img src='https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1' alt="banner mabuhay"></img>
 <br><br>
-I'm a Junior Full Stack Web Developer with a backgroud working in a Post Office and currently working in Health Care. My skills include front-end development (HTML5, CSS3, Javascript, React, ReactJs, Responsive design, UX/UI), back-end development using open source technologies (Python, Flask, Django), database(Mysql, PostgreSQL and MongoDB), requirements gathering, technical writing and project management. Eager to join a creative, problem solving team and upskill myself in a challenging environment.I enjoy working with technology and the ability to learn and implement new technologies quickly. I take responsibility for my personal dvelopment and I love all forms of challenges.  
-When I'm away from my laptop you will find me teaching and helping students with course work, running in the Phoenix Park, cycling, playing tennis, painting or doing voluntary work teaching kids art and gardening. 
+I'm a Junior Web Developer with a backgroud working in a Post Office and in Health Care. My skills include front-end development (HTML5, CSS3, Javascript, ReactJs, Responsive design, UX/UI), back-end development working with Python, Django, database(Mysql, PostgreSQL and MongoDB) technical writing and project management. Eager to join a creative, problem solving team and upskill myself in a challenging environment.I enjoy working with technology and the ability to learn and implement new technologies quickly. I take responsibility for my personal dvelopment and I don't shy away from challenges.  
+When I'm away from my laptop you will find me teaching and helping students with course work, jogging, playing tennis, art and gardening. 
 
  # 💻 Tech Stack:
 
